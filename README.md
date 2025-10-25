@@ -2,7 +2,7 @@
 
 ### 🧠 About Me
 * 🐧 Using **Arch Linux + Hyprland** as my main system
-* 🪟 **Windows 11** as my secondary OS for testing and cross-platform builds
+* 🪟 **Windows 11** as my secondary OS for testing, cross-platform builds, and gaming
 
 ### 🤝 Collaborative Projects
 
