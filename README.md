@@ -1,4 +1,4 @@
-💻 **Owner of [MSC Team](https://discord.gg/2024)**
+💻 **Owner of [MSC Empire](https://discord.gg/pon)**
 
 ### 🧠 About Me
 * 🐧 Using **Arch Linux + Hyprland** as my main system
