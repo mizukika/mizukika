@@ -1,9 +1,10 @@
-💻 **Owner of [MSC Empire](https://discord.gg/pon)**
+💻 **Owner of [MSC Prime](https://discord.gg/pon)**
 
 ### 🧠 About Me
-* 🐧 Using **Arch Linux + Hyprland** as my main system
+* 🍏 Using **MacOS** as my main system
 * 🪟 **Windows 11** as my secondary OS for testing, cross-platform builds, and gaming
 
-![mbanner](https://github.com/user-attachments/assets/ba906e4e-de11-41eb-b598-b199313930f3)
+
+![3756954b158f452a359e7da4fc02ac09](https://github.com/user-attachments/assets/e725659f-6aba-473d-92cd-1d7f1d61ea85)
 
 ⭐ **If you like our work, consider giving a star to our projects!**
