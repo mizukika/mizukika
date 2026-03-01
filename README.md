@@ -1,7 +1,7 @@
 **Owner of [MSC Prime](https://discord.gg/pon)**
 
 ### About Me
-* Using **MacOS** as my main system
+* Using **Mac mini M4** as my main pc
 * **Windows 11** as my secondary OS for testing, cross-platform builds, and gaming
 
 
