@@ -1,5 +1,5 @@
 **Owner of: 
-[MSC Prime](https://discord.gg/pon)
+[MSC Prime](https://discord.gg/pon)\n
 [NBM](https://discord.gg/tbank)**
 
 **My anti nuke bot for discord: [Titanium](https://titaniumunity.su)**
