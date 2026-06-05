@@ -10,13 +10,13 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Mac_mini_M4-Main_Workstation-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<pre>
+Owner of MSC Prime, NBM and Titanium
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Windows_11-Testing_%26_Gaming-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+Mac mini M4    • Main Workstation
+Windows 11     • Testing & Gaming
+</pre>
 
 </div>
-
 
 **If you like our work, consider giving a star to our projects.**
