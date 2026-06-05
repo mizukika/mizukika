@@ -1,6 +1,6 @@
 **Owner of:**  
 [MSC Prime](https://discord.gg/pon)  
-[NBM](https://discord.gg/tbank)
+[NBM](https://discord.gg/tbank)  
 [Titanium](https://titaniumunity.su)
 
 
