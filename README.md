@@ -18,22 +18,5 @@
 
 </div>
 
-<br>
-
-Using **Mac mini M4** as my main workstation.
-
-Using **Windows 11** for testing, cross-platform builds and gaming.
-
-<br>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mizukika&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizukika&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
 
 **If you like our work, consider giving a star to our projects.**
