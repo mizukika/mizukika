@@ -1,9 +1,8 @@
 **Owner of:**  
 [MSC Prime](https://discord.gg/pon)  
 [NBM](https://discord.gg/tbank)
-
-**My anti nuke bot for Discord:**
 [Titanium](https://titaniumunity.su)
+
 
 ### About Me
 * Using **Mac mini M4** as my main pc
