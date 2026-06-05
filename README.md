@@ -10,8 +10,11 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/macOS-Mac%20mini%20M4-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+<img src="https://img.shields.io/badge/Mac_mini_M4-Main_Workstation-000000?style=for-the-badge&logo=apple&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Windows_11-Testing_%26_Gaming-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
 
 </div>
 
@@ -29,10 +32,8 @@ Using **Windows 11** for testing, cross-platform builds and gaming.
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizukika&layout=compact&hide_border=true&theme=github_dark" />
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mizukika&theme=github-dark-blue&hide_border=true" />
-
 </div>
+
+---
 
 **If you like our work, consider giving a star to our projects.**
